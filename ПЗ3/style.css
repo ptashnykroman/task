@@ -1,0 +1,16 @@
+video {
+	width: 400px;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+.video {
+	text-align: center;
+}
+
+.text {
+	text-align: justify;
+}
